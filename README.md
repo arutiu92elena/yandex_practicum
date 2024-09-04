@@ -7,4 +7,4 @@
 | [Исследование надежности заемщиков](https://github.com/arutiu92elena/yandex_practicum/blob/main/payers.ipynb) | Выполнить анализ платёжеспособности клиентов, выявить какие факторы влияют на погашение кредита в срок | *pandas* |
 | [Яндекс недвижимость](https://github.com/arutiu92elena/yandex_practicum/blob/main/apartments.ipynb)| Изучить данные и определить какие параметры и как влияют на формирование рыночной стоимости жилья  | *pandas, matplotlib.pyplot* |
 | [Анализ сервиса GoFast](https://github.com/arutiu92elena/yandex_practicum/blob/main/go_fast.ipynb) | Проверить гипотезы, как влияет подписка на выручку компании, расстояние и время, которое проезжают пользователи | *pandas, matplotlib.pyplot, numpy, scipy* |
-
+| [Исследование продаж компьютерных игр](https://github.com/arutiu92elena/yandex_practicum/blob/main/games.ipynb)| Выявить закономерности, которые влияют на успешность игры, чтобы спланировать рекламные кампании на 2017 год. Составить портрет пользователя для каждого региона. Проверить гипотезы о различии среднего рейтинга между платформами и жанрами игры | *pandas, matplotlib.pyplot, numpy, scipy, missingno, seaborn* |
